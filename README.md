@@ -1,4 +1,4 @@
-# GDP-Per-Capita-Countries
+# Python GDP-Per-Capita-Countries
 
 
 ## Project Overview
