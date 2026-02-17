@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-Using python to analyse financial trends and relationships between the countries 
+This project leverages Python to conduct a comprehensive analysis of global financial trends, focusing specifically on GDP per capita as a key indicator of economic performance. By examining data from over 200 countries, the project explores how wealth is distributed globally, identifies patterns across regions, and investigates the relationships between different economic metrics and country characteristics. 
 
 
 ##  Table of GDP-Per-Capita-Countries 
