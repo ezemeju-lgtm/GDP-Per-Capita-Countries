@@ -13,5 +13,5 @@ Using python to analyse financial trends and relationships between the countries
 ##  Frequency of IMF Estimate
 <img width="298" height="251" alt="image" src="https://github.com/user-attachments/assets/cd1d85c7-42c2-4cc9-a6d1-74a8093dd013" />
 
-Data Source 
+Data Source = https://github.com/ezemeju-lgtm/GDP-Per-Capita-Countries/blob/main/GDP%20(nominal)%20per%20Capita.csv
 
